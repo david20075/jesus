@@ -1,0 +1,20 @@
+
+# Python
+__pycache__/
+*.py[cod]
+*.env
+*.venv
+.env
+.venv/
+instance/
+.webassets-cache
+*.log
+*.pot
+*.pyc
+.DS_Store
+.vscode/
+.idea/
+# Docker
+*.env
+*.env.*
+docker-compose.override.yml
